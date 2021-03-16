@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @munirturk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @munirturk 
+- 👀 I’m interested in electronic and software
+- 🌱 My website ise www.munirturk.com.tr
+- 💞️ My mail is m.trk485200@gmail.com
+Thank you very much.
 
 <!---
 munirturk/munirturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
