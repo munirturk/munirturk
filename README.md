@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @munirturk 
-- 👀 I’m interested in electronic and software
-- 🌱 My website ise www.munirturk.com.tr
-- 💞️ My mail is m.trk485200@gmail.com
-Thank you very much.
+### Hi there 👋, My name is Munir Turk
+#### I am an embedded software engineer
+![I am an embedded software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-munirturk/munirturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With more than 3 years of industry experience, I continue to develop myself in the field of robotics and engineering.
+
+Skills: Embedded C / PCB Design / ESP32 / STM32 / Raspberry
+
+- 🌱 I’m currently learning PCB Design and Embedded C 
+- 👯 I’m looking to collaborate on for projects 
+- 💬 Ask me about If you have problems with your projects 
+- 📫 How to reach me: LinkedIn or My Website 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/munirturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/munirturk//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/munirturkofficial//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC2WwZIW3ZBZ9uuFGgxfEO-Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.munirturk.com.tr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://munirturk.medium.com/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/munirturk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/munirturk&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/munirturk)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/munirturk)  
