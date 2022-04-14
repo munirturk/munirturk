@@ -1,15 +1,17 @@
 ![I am an embedded software engineer](https://github.com/munirturk/munirturk/blob/main/wallpaper1.png?raw=true )
 
-## Munir Turk
+## Münir Türk
 #### I am an embedded software engineer
 
 With more than 3 years of industry experience, I continue to develop myself in the field of robotics and engineering.
 
 ##Skills
-- ⚛ Embedded C 
-- 📱 PCB Design
-- 💻 Microprocessor programming
 
+⚛ Embedded C 
+📱 PCB Design
+💻 Microprocessor programming
+
+##About
 
 - 🌱 I’m currently learning PCB Design and Embedded C 
 - 👯 I’m looking to collaborate on for projects 
