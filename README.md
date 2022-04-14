@@ -5,13 +5,13 @@
 
 With more than 3 years of industry experience, I continue to develop myself in the field of robotics and engineering.
 
-##Skills
+## Skills
 
 ⚛ Embedded C 
 📱 PCB Design
 💻 Microprocessor programming
 
-##About
+## About
 
 - 🌱 I’m currently learning PCB Design and Embedded C 
 - 👯 I’m looking to collaborate on for projects 
