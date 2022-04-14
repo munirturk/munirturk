@@ -11,7 +11,7 @@ Skills: Embedded C / PCB Design / ESP32 / STM32 / Raspberry
 - 🌱 I’m currently learning PCB Design and Embedded C 
 - 👯 I’m looking to collaborate on for projects 
 - 💬 Ask me about If you have problems with your projects 
-- 📫 How to reach me: LinkedIn or My Website 
+- 📫 How to reach me: LinkedIn, My Website or My Mail(m.trk485200@gmail.com)
 
 <img src="https://github.com/munirturk/munirturk/blob/main/Munir_Turk__Myoware_Test.gif?raw=true" />
 
