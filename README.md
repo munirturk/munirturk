@@ -1,4 +1,4 @@
-![I am an embedded software engineer](https://github.com/munirturk/munirturk/blob/main/wallpaper.png?raw=true )
+![I am an embedded software engineer](https://github.com/munirturk/munirturk/blob/main/zyro-image.png?raw=true )
 
 ### Hi there 👋, My name is Munir Turk
 #### I am an embedded software engineer
