@@ -1,8 +1,8 @@
-(https://github.com/munirturk/munirturk/blob/main/wallpaper.png?raw=true)
+![I am an embedded software engineer](https://github.com/munirturk/munirturk/blob/main/wallpaper.png?raw=true )
 
 ### Hi there 👋, My name is Munir Turk
 #### I am an embedded software engineer
-![I am an embedded software engineer]
+
 
 With more than 3 years of industry experience, I continue to develop myself in the field of robotics and engineering.
 
